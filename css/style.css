@@ -331,7 +331,7 @@ a:hover {
 }
 
 #slider h3 {
-	color: #a5b0d6;
+	color: black;
 	font-family: "Novecentowide";
 	font-size: 24px;
 	font-weight: 200;
@@ -343,7 +343,7 @@ a:hover {
 #slider .btn-more {
 	width: 112px;
 	display: block;
-	color: #a5b1d5;
+	color: black;
 	font-family: "Novecentowide";
 	font-size: 10px;
 	font-weight: 500;
@@ -357,7 +357,7 @@ a:hover {
 #slider .btn-more:hover{
 	text-decoration: none;
 	border: 1px solid #fff;
-	color: #fff;
+	color: black;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
@@ -366,29 +366,29 @@ a:hover {
 
 #slider h2 {
 	font-family: "Novecentowide";
-	color: #fff;
+	color: black;
 	font-size: 48px;
 	line-height: 46px;
 	letter-spacing: 9px;
 	font-weight: 300;
 }
 
-#slider .purple h3 {
-	color: #afa6c8;
+#slider .black h3 {
+	color: black;
 }
 
-#slider .purple a {
+#slider .black a {
 	border-color: #afa6c8;
-	color: #afa6c8;
+	color: black;
 }
 
-#slider .yellow h3 {
-	color: #f7c769;
+#slider .black h3 {
+	color: black;
 }
 
-#slider .yellow a {
+#slider .black a {
 	border-color: #f7c769;
-	color: #f7c769;
+	color: black;
 }
 
 #content {
